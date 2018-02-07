@@ -14,5 +14,7 @@
 ##Chapter3##
 
 * chapter3-1: Zero value
+* chapter3-2: String
+* chapter3-3: Floating point & Comparing
 
 ##Chapter4##
